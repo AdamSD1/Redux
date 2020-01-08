@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import List from './components/List/List';
+import ListBox from './components/List/List';
 import 'antd/dist/antd.css'
-ReactDOM.render(<List />, document.getElementById('root'));
+ReactDOM.render(<ListBox />, document.getElementById('root'));
